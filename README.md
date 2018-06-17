@@ -1,3 +1,3 @@
 # React Video Browser
 
-Modern React with Redux course project.
+The first project in the Modern React with Redux course.
