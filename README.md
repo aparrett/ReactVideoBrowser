@@ -1,8 +1,6 @@
 # ReactVideoBrowser
 
-This is a simple application that allows you to search and play YouTube videos.  You can view ReactVideoBrowser at [https://ap-react-videos.herokuapp.com/](https://ap-react-videos.herokuapp.com/).
-
-This sample application is the 1st application you build in the [Modern React with Redux](https://www.udemy.com/react-redux/) course taught by Stephen Grider.
+This is a simple application that allows you to search and play YouTube videos.  You can view ReactVideoBrowser at [https://ap-react-videos.herokuapp.com/](https://ap-react-videos.herokuapp.com/).  It may take a moment for the Heroku instance to boot up.
 
 ## Built With
 * [Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter)
